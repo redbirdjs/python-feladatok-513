@@ -1,0 +1,4 @@
+szam = int(input("Kérek egy számot: "))
+
+if (szam > 0 and szam < 10):
+    print("TALÁLT!")
